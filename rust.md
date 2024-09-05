@@ -7,7 +7,7 @@ The simplest Rust program, which prints "Hello, world!" to the console.
 
 ```rust
 fn main() {
-    // This line prints "Hello, world!" to the console
+// This line prints "Hello, world!" to the console
     println!("Hello, world!");
 }
 ```

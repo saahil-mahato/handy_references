@@ -666,7 +666,6 @@ This section provides a list of references that can serve as valuable resources 
    An online learning platform that provides courses on software engineering, cloud computing, and system architecture from top universities. Available at: [edx.org](https://www.edx.org)
 
 3. **YouTube Channels**  
-   - **TechLead**: Offers insights into software engineering, system design, and career advice in tech.
    - **Academind**: Provides tutorials on various web development frameworks and system design principles.
 
 4. **GitHub**  
