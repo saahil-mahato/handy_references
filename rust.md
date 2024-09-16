@@ -1,5 +1,3 @@
-Here’s an expanded table of contents for a Rust reference manual that includes optimizations and systems programming topics, providing a thorough guide for developers interested in both foundational and advanced aspects of Rust.
-
 ## Table of Contents
 
 1. **Introduction**
